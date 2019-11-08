@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            #pictures{
+                width:200px;
+                float:left;
+                margin-right:22px;
+                margin-top:-29px;
+                border:10px groove navy ;
+            }
+            h2{
+                background-color:navy ;
+                color:red;
+                margin-bottom:36px;
+            }
+            h1{
+                color:white;
+                background-color:navy;
+              
+            }
+      
+        </style>
+    </head>
+    <body>
+        
+        <h1>Louisiana!</h1>
+        <h2>Things to bring!</h2>
+          <p> <img id="pictures" src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png">
+        </p>
+        <ul>
+            <li>clothes</li>
+            <li>money</li>
+            <li>a vehicle</li>
+            <li>boat</li>
+            <li>fishing gear</li>
+            <li>gun</li>
+            <li>hunting clothes</li>
+        </ul>
+        <h2>Things to do! </h2>
+        <p> <img id="pictures" src="https://www.kasandbox.org/programming-images/landscapes/fields-of-wine.png">
+        </p>
+        <ul>
+             <li>hunting</li>
+             <li>fishing</li>
+             <li>eating</li>
+             <li>swamp tours</li>
+             <li>family gatherings</li>
+        </ul>
+         <h2>Places to see! </h2>
+        <p> <img id="pictures" src="https://www.kasandbox.org/programming-images/landscapes/lotus-garden.png">
+        </p>
+        <ul>
+             <li>monroe</li>
+             <li>Lake Pontchartrain</li>
+             <li>Sri Port</li>
+             <li>Louisiana State University</li>
+             <li>New Orleans</li>
+        </ul>
+    </body>
+</html>
